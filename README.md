@@ -3,7 +3,7 @@
 - ✨ Presently working as a study advisor and IT & technology expert at our university. In my spare time, I enjoy furthering my education and skills.
 - 🌱 I’m currently learning Python, machineelearning, NLP, and exploring open-source solutions like Flowise & Autogen. I'm dedicated to enhancing my skills in Java, Rust, and Python.
 - 💞️ I’m looking to collaborate on innovative projects involving AI, Machine Learning, and open source initiatives that push the boundaries of technology and offer real-world solutions.
-- 📫 How to reach me: arben.ademi@iu.org & arben.ademi@tut.io 
+- 📫 How to reach me: arben.ademi@iu.org & arben.ademi@tuta.io 
 - 🚀 My entire YouTube algorithm is filled with coding tutorials and exciting use cases. These inspire new ways of thinking and solutions, which I integrate into my projects.
 
 <!---
